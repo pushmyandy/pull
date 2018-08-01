@@ -1,0 +1,22 @@
+{
+  "name": "pull",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushmyandy/pull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushmyandy/pull/issues"
+  },
+  "homepage": "https://github.com/pushmyandy/pull#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.1"
+  }
+}
